@@ -2,7 +2,7 @@
 
 Our challenge is to develop a procedure for creating realistic night scene photos without actual ground-truth images. This task is important for surveillance, security, and art. Submissions will be evaluated by mean opinion scores and professional photographers.
 
-This repo contains the source code of [Night Photography Rendering Challenge 2023](https://nightimaging.org/).
+This repo contains the source code of [Night Photography Rendering Challenge 2024](https://nightimaging.org/).
  
 ## Installation and requirements
 
